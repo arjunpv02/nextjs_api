@@ -1,6 +1,8 @@
-Next.js API Integration Project
+Next.js API  Integration Project
 
-This project demonstrates the development of APIs using Next.js to interconnect the front-end and back-end. The APIs are integrated with a Dash database to handle data exchange between the client and server. Tools like Postman and Vue are utilized for testing and visualization of API functionality.
+This project demonstrates the development of APIs using Next.js to interconnect the front-end and back-end. 
+The APIs are integrated with a Dash database to handle data exchange between the client and server. 
+Tools like Postman and Vue are utilized for testing and visualization of API functionality.
 
 Key Features
 
